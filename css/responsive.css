@@ -6,6 +6,8 @@
 
 /* Normal desktop :992px. */
 
+
+
 @media (min-width: 992px) and (max-width: 1169px) {
   .slider-content {
     padding: 146px 0;
@@ -15,7 +17,7 @@
   }
   .work-right-text h2 {
     font-size: 18px;
-    line-height: 28px;
+    line-height: 30px;
   }
 }
 
@@ -41,7 +43,7 @@
     padding: 10px 16px;
   }
   .suscribe-input input {
-    width: 60%;
+    width: 61%;
   }
   .suscribe-input button {
     width: 40%;
